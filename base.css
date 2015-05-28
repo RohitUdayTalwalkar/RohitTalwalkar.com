@@ -1,0 +1,42 @@
+﻿.container {
+    height: 100%;
+    width: 100%;
+    color: #FFF;
+
+    background-image: -o-linear-gradient(top, rgb(44, 51, 58) 30%, rgb(56, 60, 64) 70%);
+    background-image: -moz-linear-gradient(top, rgb(44, 51, 58) 30%, rgb(56, 60, 64) 70%);
+    background-image: -webkit-gradient(linear, left top, left top, color-stop(0.24, rgb(44, 51, 58)), color-stop(0.62, rgb(56, 60, 64)));
+    background-image: -webkit-linear-gradient(top, rgb(44, 51, 58) 30%, rgb(56, 60, 64) 70%);
+    background-image: -ms-linear-gradient(top, rgb(44, 51, 58) 30%, rgb(56, 60, 64) 70%);
+    background-image: linear-gradient(top, rgb(44, 51, 58) 30%, rgb(56, 60, 64) 70%);
+}
+
+.footer {
+    font-size: 10pt;
+    color: #CCC;
+}
+
+.container a:link {
+    color: #FFF;
+}
+
+.container a:visited {
+    color: #FFF;
+}
+
+.center-content-med {
+    width: 800px;
+    margin: 0 auto;
+}
+
+.center-content-small {
+    width: 256px;
+    margin: 0 auto;
+}
+.footer {
+    margin-top: -30px;
+    text-align: center;
+}
+.padding-bottom-20 {
+    padding-bottom: 20px;
+}
